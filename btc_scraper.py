@@ -1,6 +1,6 @@
 import streamlit as st
-import tkinter as tk
-from tkinter import messagebox, ttk
+# import tkinter as tk
+# from tkinter import messagebox, ttk
 import requests
 import json
 import time
